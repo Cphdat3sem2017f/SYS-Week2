@@ -18,7 +18,7 @@
 -	Be able to use test as part of development
 
 ## Exercises
-SP-Exercise Costumizing XP
+SP-Exercise Costumizing XP (link comming uP)
 
 ## Resources
 
