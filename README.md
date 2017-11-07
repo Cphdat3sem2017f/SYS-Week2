@@ -36,6 +36,7 @@ SP-Exercise Costumizing XP (link comming uP)
 - chap 10: A Quick Overview (practices)
 - chap 11: How Could This Work?
 #### Joshua Kerievsky: The Extreme Programming Playbook https://www.industriallogic.com/wp-content/uploads/2005/09/xpplaybook.pdf 
+#### Refactoring https://sourcemaking.com/refactoring 
 
 ### Continuous Integration
 #### Comparing Workflows https://www.atlassian.com/git/tutorials/comparing-workflows 
@@ -46,5 +47,5 @@ SP-Exercise Costumizing XP (link comming uP)
 - chap 1: Fundamentals of testing (33 p)
 - chap 2: Testing throughout the software life cycle (20 p)
 #### Introduction to Test Driven Development (TDD) http://www.agiledata.org/essays/tdd.html 
-#### Refactoring https://sourcemaking.com/refactoring 
+
 
