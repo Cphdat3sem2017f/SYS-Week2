@@ -37,14 +37,14 @@ SP-Exercise Costumizing XP
 - chap 11: How Could This Work?
 #### Joshua Kerievsky: The Extreme Programming Playbook https://www.industriallogic.com/wp-content/uploads/2005/09/xpplaybook.pdf 
 
-Continuous Integration
-•	Comparing Workflows https://www.atlassian.com/git/tutorials/comparing-workflows 
-•	Fowler: Continous Integration http://martinfowler.com/articles/continuousIntegration.html
-•	link: Waffle https://waffle.io/ 
-Test
-•	Graham m.fl : FOUNDATIONS OF SOFTWARE TESTING
-o	chap 1: Fundamentals of testing (33 p)
-o	chap 2: Testing throughout the software life cycle (20 p)
-•	Introduction to Test Driven Development (TDD) http://www.agiledata.org/essays/tdd.html 
-•	Refactoring https://sourcemaking.com/refactoring 
+### Continuous Integration
+#### Comparing Workflows https://www.atlassian.com/git/tutorials/comparing-workflows 
+#### Fowler: Continous Integration http://martinfowler.com/articles/continuousIntegration.html
+
+### Test
+#### Graham m.fl : FOUNDATIONS OF SOFTWARE TESTING
+- chap 1: Fundamentals of testing (33 p)
+- chap 2: Testing throughout the software life cycle (20 p)
+#### Introduction to Test Driven Development (TDD) http://www.agiledata.org/essays/tdd.html 
+#### Refactoring https://sourcemaking.com/refactoring 
 
