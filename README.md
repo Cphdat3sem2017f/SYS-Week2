@@ -34,10 +34,10 @@ SP-Exercise Costumizing XP (link comming uP)
 #### [XP PowerPoint](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=04042374111e04c5fb5ab29a3ee4a81c7&authkey=AcfE68ezCj721RoxzUccgr0&e=656f077b027f4be68f09896227d4b050 "XP PowerPoint")
 
 #### Kent Beck: Extreme programming explained 
-- chap 1: Risk: The basic problem
-- chap 4: Four Variables
-- chap 10: A Quick Overview (practices)
-- chap 11: How Could This Work?
+- chap 1: Risk: The basic problem - [Kent Beck Extreme Programming Explained - chap 1](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0735e7dd7d7214fcaab6d6ed574b4ea95&authkey=AeFh7ERLcDJfnknMPEluqpo&e=cc07f43b39c8422181970d59c19264c4 "Kent Beck Extreme Programming Explained - chap 1")
+- chap 4: Four Variables - [Kent Beck Extreme Programming Explained - chap 4](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=020a64aaf470a41a58264852542aab259&authkey=AS6zevLLjay9v48QNxQSjJ4&e=d374c277efc64fa58720ac67e8e15f8c "Kent Beck Extreme Programming Explained - chap 4")
+- chap 10: A Quick Overview (practices) - [Kent Beck Extreme Programming Explained - chap 10](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0c99df257b2894b178568e6be75b1c416&authkey=AXoestBEz9_LcxQ-XY38AVo&e=cb54a53c3aea450184c7539cbbb7686a "Kent Beck Extreme Programming Explained - chap 10")
+- chap 11: How Could This Work? - [Kent Beck Extreme Programming Explained - chap 11](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0899e04864442478dbaff224478c50fc3&authkey=AajX2u6iEo_M4SUrEt9Ox2Q&e=de0e546679a5492c848f3af239ddf0a0 "Kent Beck Extreme Programming Explained - chap 11")
 #### Joshua Kerievsky: The Extreme Programming Playbook https://www.industriallogic.com/wp-content/uploads/2005/09/xpplaybook.pdf 
 #### Refactoring https://sourcemaking.com/refactoring 
 
