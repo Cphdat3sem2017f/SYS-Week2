@@ -30,6 +30,9 @@ SP-Exercise Costumizing XP (link comming uP)
 #### Vidoe Martin Fowler explaining agile http://www.usievents.com/en/videos/35-explaining-agile-martin-fowler 
 
 ### Extreme Programming (XP)
+
+#### [XP PowerPoint](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=04042374111e04c5fb5ab29a3ee4a81c7&authkey=AcfE68ezCj721RoxzUccgr0&e=656f077b027f4be68f09896227d4b050 "XP PowerPoint")
+
 #### Kent Beck: Extreme programming explained 
 - chap 1: Risk: The basic problem
 - chap 4: Four Variables
