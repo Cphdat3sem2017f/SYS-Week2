@@ -51,4 +51,5 @@ SP-Exercise Costumizing XP (link comming uP)
 - chap 2: Testing throughout the software life cycle (20 p)
 #### Introduction to Test Driven Development (TDD) http://www.agiledata.org/essays/tdd.html 
 
+#### [TTD-String Calculator exercise](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=045bfa63c16924ccc9c1a5ab41e990a4c&authkey=AWdStnfIUKQ7qTbOYOjVpWE&e=42a93b8558da40e1b57e4c85edb33dcf)
 
