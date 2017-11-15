@@ -61,4 +61,5 @@ SP-Exercise Costumizing XP (link comming uP)
 
 ### Friday - Study Point exercise  
 #### [Study point exercise – SCRUM and XP – Friday 17](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=016c694f1b86e43d78cb36c8b05afc55e&authkey=AcQ9E-MnvwXPQOKTm33yRqA&e=da508d5abfbd4203b30b803fbc069062)
+#### [Sign up for review of SP exercise - pick TUHE or BORG](http://tinyurl.com/3semreview)
 
