@@ -55,5 +55,5 @@ SP-Exercise Costumizing XP (link comming uP)
 
 #### [TTD-String Calculator exercise](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=045bfa63c16924ccc9c1a5ab41e990a4c&authkey=AWdStnfIUKQ7qTbOYOjVpWE&e=42a93b8558da40e1b57e4c85edb33dcf)
 
-####[Mocking exercise](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0c154a9ab9c874875851fb5d165be60cd&authkey=AdzPMa5tx4BzM5qjDEI-AoM&e=f6b260b0cbf241228be337bff6b191ac)
+#### [Mocking exercise](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0c154a9ab9c874875851fb5d165be60cd&authkey=AdzPMa5tx4BzM5qjDEI-AoM&e=f6b260b0cbf241228be337bff6b191ac)
 
