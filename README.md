@@ -59,3 +59,6 @@ SP-Exercise Costumizing XP (link comming uP)
 
 #### [Mocking exercise](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0c154a9ab9c874875851fb5d165be60cd&authkey=AdzPMa5tx4BzM5qjDEI-AoM&e=f6b260b0cbf241228be337bff6b191ac)
 
+###Friday - Study Point exercise
+[Study point exercise – SCRUM and XP – Friday 17](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=016c694f1b86e43d78cb36c8b05afc55e&authkey=AcQ9E-MnvwXPQOKTm33yRqA&e=da508d5abfbd4203b30b803fbc069062)
+
