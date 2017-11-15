@@ -44,9 +44,9 @@ SP-Exercise Costumizing XP (link comming uP)
 ### Continuous Integration
 #### Comparing Workflows https://www.atlassian.com/git/tutorials/comparing-workflows 
 #### Fowler: Continous Integration http://martinfowler.com/articles/continuousIntegration.html
-#### [Link to Jens' CI repository](https://github.com/Jegp/cphbusiness-sem3-ci/blob/master/travis_guide.md) 
+#### [Link to Jens' CI repository](https://github.com/Jegp/cphbusiness-sem3-ci) 
 
-### Test
+### Testhttps://github.com/Jegp/cphbusiness-sem3-ci
 #### Graham m.fl : FOUNDATIONS OF SOFTWARE TESTING
 - chap 1: Fundamentals of testing (33 p)
 - chap 2: Testing throughout the software life cycle (20 p)
