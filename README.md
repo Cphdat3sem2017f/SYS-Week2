@@ -56,6 +56,8 @@ SP-Exercise Costumizing XP (link comming uP)
 
 #### [TTD-String Calculator exercise](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=045bfa63c16924ccc9c1a5ab41e990a4c&authkey=AWdStnfIUKQ7qTbOYOjVpWE&e=42a93b8558da40e1b57e4c85edb33dcf)
 
+#### [TDD Sting calculator exercise solution](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0540104e669fc43fd968e397eb8be5927&authkey=Aa3kTc9coKZph3dpXiIFYjU&e=e1747b2e2d654d288955fe26f0ade99a)
+
 #### [Mocking PowerPoint](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0183267ac129a4ddf85020f98b01531b4&authkey=AaonUzv0hHIDeOGXtHnaY8g&e=e99631947c9c4e6b8a59fc996125451e)
 
 #### [Mocking exercise](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0c154a9ab9c874875851fb5d165be60cd&authkey=AdzPMa5tx4BzM5qjDEI-AoM&e=f6b260b0cbf241228be337bff6b191ac)
